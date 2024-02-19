@@ -1,2 +1,2 @@
 # Postman_autotest-API
-Мои первые автотесты в Postman
+Простые автотесты в Postman
